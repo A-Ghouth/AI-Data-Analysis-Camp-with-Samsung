@@ -2,6 +2,9 @@
 
 This repository contains the materials and assignments completed during the AI & Data Analysis Camp organized by Misk Immersive Programs in collaboration with Samsung.
 
+![Slide1](https://github.com/A-Ghouth/AI-Data-Analysis-Camp-with-Samsung/assets/154764214/c9c6464d-0b91-4666-9012-4698782affa5)
+![Slide2](https://github.com/A-Ghouth/AI-Data-Analysis-Camp-with-Samsung/assets/154764214/38e9ba2d-bdd7-49a8-8bef-de25a15f72f1)
+
 ## Contents
 
 The repository includes the following files:
