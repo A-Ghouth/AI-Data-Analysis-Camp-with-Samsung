@@ -18,7 +18,6 @@ During the camp, participants learned about various AI and data analysis techniq
 
 - Convolutional Neural Networks (CNNs)
 - Recurrent Neural Networks (RNNs)
-- Generative Adversarial Networks (GANs)
 - Data preprocessing and feature engineering
 - Time series analysis
 - Data visualization
